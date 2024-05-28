@@ -1,5 +1,7 @@
 # Choosing The Right Headless CMS Tech Stack For A Travel Guide Website
 
+![diagram](../diagram.drawio.png)
+
 For the past two months, I have collaborated with [Tech To the Rescue](https://www.techtotherescue.org/) a website to promote the city of Jericho for a non-governmental organisation [Mosaic Centre Jericho](https://mosaiccentrejericho.com/). With the project being both non-profit and me being a relative beginner in frontend development, I found the task of choosing the right tech stack both rewarding and fairly challenging.
 
 We knew what it needed to be and what it needed to have:
