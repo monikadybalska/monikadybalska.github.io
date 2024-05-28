@@ -1,1 +1,1 @@
-A space to document my coding journey and ongoing projects
+I'm a self-taught front-end developer, currently honing my skills by working on my first non-profit website development project. This blog is a glimpse into my learning process, experiences as a junior developer, and current projects.
