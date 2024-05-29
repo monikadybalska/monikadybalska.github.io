@@ -1,4 +1,4 @@
-# Choosing The Right Headless CMS Tech Stack For A Travel Guide Website
+# How I chose the tech stack that helped me build a website for a Palestinian NGO in two months
 
 ![A diagram showing the logos of the technologies discussed in the post](https://monikadybalska.github.io/images/diagram.drawio.png?raw=true)
 
@@ -81,4 +81,8 @@ Since the website design relied heavily on high-quality photos, we were determin
 ## AWS with Lightsail for hosting
 Finally, we needed a reliable home for the website itself. [Amazon Lightsail](https://aws.amazon.com/lightsail/) offered a perfect balance of features and affordability. It's a virtual server solution within the vast AWS ecosystem, so it's secure and scalable, but with a simple interface that was easy for me to navigate.
 
+---
+
 This tech stack is certainly not the only solution, but for a non-profit travel guide website with a user-friendly CMS and a small development team, it turned out to be just the right combination.
+
+**Before the final version of the website goes public, you can see the beta here: [beta.visitjericho.com](beta.visitjericho.com)**
