@@ -76,13 +76,42 @@ Making content updates easy for the team at Mosaic Centre Jericho was just as im
 Using several WordPress plug-ins, namely [Advanced Custom Fields](https://www.advancedcustomfields.com/), [WPGraphQL](https://www.wpgraphql.com/) with the built-in GraphQL IDE, and [Admin Menu Editor](https://pl.wordpress.org/plugins/admin-menu-editor/), we were able to provide an intuitive, smooth experience for both the developers and content editors.
 
 ## Cloudfront with S3 Bucket for media optimisation
+
+<br>
+
+<div align="center">
+  <img src="https://monikadybalska.github.io/images/cloudfront.png?raw=true" width=500>
+  <div>
+    <sub>The Offload Media plug-in allowed us to easily configure both the S3 storage and the Cloudfront delivery</sub>
+  </div>
+</div>
+
+<br>
+
 Since the website design relied heavily on high-quality photos, we were determined to find a smart, cost-effective, and fast CDN. Even though the [Netlify CDN](https://docs.netlify.com/image-cdn/overview/) paired with [Next.js Image](https://nextjs.org/docs/pages/api-reference/components/image) already made for a great performance, we wanted to optimise our media further. We ended up choosing [Amazon Cloudfront](https://aws.amazon.com/cloudfront/) with [Amazon S3](https://aws.amazon.com/s3/) for its reliability and very generous usage limits. With the help of the [WP Offload Media](https://deliciousbrains.com/wp-offload-media/) plug-in, we were able to deliver appropriately-sized, beautiful images and significantly improve page loads and payloads.
 
 ## AWS with Lightsail for hosting
+
+<br>
+
+<div align="center">
+  <img src="https://monikadybalska.github.io/images/lightsail.png?raw=true" width=500>
+  <div>
+    <sub>Lightsail makes it very easy to launch an instance and connect it to a WordPress site</sub>
+  </div>
+</div>
+
+<br>
+
 Finally, we needed a reliable home for the website itself. [Amazon Lightsail](https://aws.amazon.com/lightsail/) offered a perfect balance of features and affordability. It's a virtual server solution within the vast AWS ecosystem, so it's secure and scalable, but with a simple interface that was easy for me to navigate.
 
----
+## Summary
 
 This tech stack is certainly not the only solution, but for a non-profit travel guide website with a user-friendly CMS and a small development team, it turned out to be just the right combination.
 
-**Before the final version of the website goes public, you can see the beta here: [beta.visitjericho.com](beta.visitjericho.com)**
+---
+
+## Links
+
+- [Beta version of the website](beta.visitjericho.com)
+- [GitHub repo](https://github.com/monikadybalska/visitjericho)
