@@ -12,6 +12,10 @@ We knew what it needed to be and what it needed to have:
 Keeping those goals in mind, here's what we chose to build the Visit Jericho website:
 
 ## React with Next.js for Javascript
+![A screenshot showing the report from the Lighthouse tool. The performance score is 100 and the SEO score is 91](https://monikadybalska.github.io/images/lighthouse.png?raw=true&width=120)
+
+<sub>Next.js significantly improved the website's performance and made it easy to implement good SEO practices</sub>
+
 At first, we considered hosting the entire website on the [WordPress](https://wordpress.com/), as it would give a familiar environment for future website administrator. However, since we aimed to provide a modern touch and feel, it seemed right though to use a framework that would allow for more design customisation. With that in mind, we opted for [React](https://react.dev/) paired with [Next.js](https://nextjs.org/). React makes building complex UIs a breeze and helps replicate similar components quickly, which ensured consistency across all the sections, from things to do to travel practicalities.
 As for Next.js, we chose it for the perfect balance between maintainable and bleeding-edge. With the new [App Router](https://nextjs.org/docs/app), we were able to take advantage of the latest React features, such as Server Components and Streaming, which allowed us to optimise the performance of the website and make the user experience smooth without sacrificing reliability.
 
