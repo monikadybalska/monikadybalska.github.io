@@ -113,5 +113,5 @@ This tech stack is certainly not the only solution, but for a non-profit travel 
 
 ## Links
 
-- [Beta version of the website](beta.visitjericho.com)
+- [Beta version of the website](https://beta.visitjericho.com)
 - [GitHub repo](https://github.com/monikadybalska/visitjericho)
